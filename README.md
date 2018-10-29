@@ -5,7 +5,7 @@ Later it will be used for various purposes.
 
 ### Dependencies
 * skyfield==1.9
-* Flask==0.12.2
+* Flask==1.0.2
 
 
 ### Instructions
